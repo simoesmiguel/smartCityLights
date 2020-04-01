@@ -5,4 +5,4 @@ The aim of this project is to implement an IoT system which is able to detect th
 
 In order to exhibit a realistic behavior, the public lights were replaced by LEDs. All public lights have their own controllers which are interconnected through an I2C bus.
 
-<<See Wiki for detailed information about the project>>
+( See Wiki for detailed information about the project )
